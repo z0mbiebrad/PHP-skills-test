@@ -1,0 +1,16 @@
+[
+    {
+        "product": "Test",
+        "quantity": "2",
+        "price": "40",
+        "created_at": "07:14:22pm 06\/28\/2023",
+        "total_value": 80
+    },
+    {
+        "product": "Test 2",
+        "quantity": "3",
+        "price": "25",
+        "created_at": "07:14:35pm 06\/28\/2023",
+        "total_value": 75
+    }
+]
